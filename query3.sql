@@ -1,6 +1,5 @@
 .mode column
 .separator |
-.width 10 60 2 10 10 2 10 
 .open Order10.db
 select 	
 	sku, pname,
