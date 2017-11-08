@@ -1,7 +1,7 @@
-CREATE TABLE Order789Gsheet(
-  "year" TEXT,
-  "month" TEXT,
-  "day" TEXT,
+CREATE TABLE OrderAll(
+  "year" INTEGER,
+  "month" INTEGER,
+  "day" INTEGER,
   "YMD" TEXT,
   "dno" TEXT,
   "orderno" TEXT,
