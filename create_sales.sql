@@ -4,6 +4,6 @@ CREATE TABLE Sales(
   "category" INTEGER,
   "PID" TEXT,
   "pname" TEXT,
-  "qty" TEXT,
-  "amount" TEXT
+  "qty" INTEGER,
+  "amount" INTEGER
 );
