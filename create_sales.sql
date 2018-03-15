@@ -1,7 +1,8 @@
 CREATE TABLE Sales(
   "year" INTEGER,
   "month" INTEGER,
-  "category" INTEGER,
+  "cat1" INTEGER,
+  "cat2" INTEGER,
   "PID" TEXT,
   "pname" TEXT,
   "qty" INTEGER,
