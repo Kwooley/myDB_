@@ -308,7 +308,7 @@ Insert into Sales values ( 2018, 1, 3, 31, 101, "뻘건감자",	 	97, 709000);
 Insert into Sales values ( 2018, 1, 3, 31, 102, "촉촉오징어땅콩",	91, 910000);
 Insert into Sales values ( 2018, 1, 3, 31, 103, "골빔면",	 	34, 306000);
 Insert into Sales values ( 2018, 1, 3, 31, 104, "허연감자",	 	149, 1111000);
-Insert into Sales values ( 2018, 1, 3, 31, 105, "스팸튀김",	 	26, 2322000);
+Insert into Sales values ( 2018, 1, 3, 31, 105, "스팸튀김",	 	26, 232200);
 Insert into Sales values ( 2018, 1, 3, 35, 106, "앵그리버드",	87, 1384000);
 Insert into Sales values ( 2018, 1, 3, 36, 107, "크리스피텐더",	95, 1425000);
 Insert into Sales values ( 2018, 1, 3, 37, 108, "버팔로윙",	51, 765000);
