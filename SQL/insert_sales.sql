@@ -416,20 +416,21 @@ Insert into Sales values ( 2018, 3, 3, 31, 113, "백화점육포",	 	58, 637000)
 Insert into Sales values ( 2018, 3, 3, 35, 114, "앵그리버드RED",	24, 401303);
 Insert into Sales values ( 2018, 3, 3, 35, 115, "앵그리버드RED(반반)",	26, 442000);
 Insert into Sales values ( 2018, 3, 3, 31, 116, "봉다리복만두",	 	13, 156000);
-Insert into Sales values ( 2018, 3, 3, 31, 117, "개이득반반",	 	15, 420000);
-Insert into Sales values ( 2018, 3, 3, 31, 118, "개이득세트",	 	15, 420000);
+Insert into Sales values ( 2018, 3, 3, 35, 117, "개이득반반",	 	17, 478000);
+Insert into Sales values ( 2018, 3, 3, 35, 118, "개이득세트",	 	15, 420000);
 Insert into Sales values ( 2018, 3, 3, 31, 119, "개이득감자세트",	 	5, 110000);
+Insert into Sales values ( 2018, 3, 3, 35, 120, "앵그리감자세트",	 	6, 132000);
 
 
 -- MAR. 2018, CAT 6 
 Insert into Sales values ( 2018, 3, 6, 62, 201, "CAN 강남",  0,0);
 Insert into Sales values ( 2018, 3, 6, 61, 202, "CAN 진짜500", 	52, 140400);
 Insert into Sales values ( 2018, 3, 6, 62, 203, "CAN 놀라운", 	 7, 38500);
-Insert into Sales values ( 2018, 3, 6, 62, 204, "CAN 생활밀착",	 7, 34300);
+Insert into Sales values ( 2018, 3, 6, 62, 204, "CAN 브랜든밀맥주",	 7, 34300);
 Insert into Sales values ( 2018, 3, 6, 62, 205, "CAN 레드락IPA",	3, 16500);
 Insert into Sales values ( 2018, 3, 6, 62, 206, "CAN 모카스타우트", 10, 55000);
 Insert into Sales values ( 2018, 3, 6, 62, 207, "CAN 걸작IPA",	25, 156000);
 Insert into Sales values ( 2018, 3, 6, 62, 208, "CAN 일상탈출",	1, 5500);
-Insert into Sales values ( 2018, 3, 6, 62, 209, "CAN 설레임",	0,0);
+Insert into Sales values ( 2018, 3, 6, 62, 209, "CAN 설레임",	1, 6000);
 Insert into Sales values ( 2018, 3, 6, 62, 210, "CAN 하와이안골든에일", 0,0);	
 
