@@ -1,3 +1,5 @@
+drop table Sales;
+
 CREATE TABLE Sales(
   "year" INTEGER,
   "month" INTEGER,
