@@ -27,5 +27,7 @@ insert into beer values(2018, 4, 21, 0, "", 0,  1945500);
 insert into beer values(2018, 4, 22, 0, "", 0,  3945000);
 
 insert into beer values(2018, 5, 21, 0, "", 0,  2229000);
+insert into beer values(2018, 5, 22, 0, "", 0,  5143200);
 
 insert into beer values(2018, 6, 21, 0, "", 0,  2314500);
+insert into beer values(2018, 6, 22, 0, "", 0,  6415200);
